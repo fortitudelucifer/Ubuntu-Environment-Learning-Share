@@ -31,7 +31,11 @@
 - finish the case cables to make hardware compatible
 
 ### install system/software and operate bios
-
+- 闲置的16GB以上的U盘（后续安装会被清空）
+- 在ubuntu官网下载好24.04版本的ubuntu安装包.iso文件
+- 将U盘插入其它电脑
+- 用rufus来制作ubuntu安装u盘
+- 格式化u盘是选择 gpt 分区
 
 
 
