@@ -1,4 +1,4 @@
-## 整理之前自己在家安装ubuntu服务器（server）整个过程的草稿
+## 整理之前自己安装ubuntu服务器（server）整个过程的草稿
 ### 硬件
 - cpu 处理器：AMD Ryzen 9 7000X / AMD 锐龙 9700X   
 - gpu 显卡：NVIDIA GeForce RTX 5070 Ti 16GB Inno3D InnoSnow X3 OC / NVIDIA 5070ti 16G 映众 映雪X3 OC
@@ -31,11 +31,15 @@
 - finish the case cables to make hardware compatible
 
 ### install system/software and operate bios
-- 闲置的16GB以上的U盘（后续安装会被清空）
-- 在ubuntu官网下载好24.04版本的ubuntu安装包.iso文件
-- 将U盘插入其它电脑
-- 用rufus来制作ubuntu安装u盘
-- 格式化u盘是选择 gpt 分区
+- ubuntu
+  - 闲置的16GB以上的U盘（后续安装会被清空）
+  - 在ubuntu官网下载好24.04版本的ubuntu安装包.iso文件
+  - 将U盘插入其它电脑
+  - 用rufus来制作ubuntu安装u盘
+  - 格式化u盘是选择 gpt 分区
+- windows
+  - 闲置的16GB以上的U盘
+  - 用其它电脑在windows官网直接制作win10或win11安装盘即可
 
 
 
