@@ -41,6 +41,8 @@
   - 闲置的16GB以上的U盘
   - 用其它电脑在windows官网直接制作win10或win11安装盘即可
 
+### 不想用 nano vim gedit touch 创建新文件
+https://blog.csdn.net/frighting_ing/article/details/122693003
 
 
 
