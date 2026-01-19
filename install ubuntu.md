@@ -1,6 +1,6 @@
 ## 整理之前自己安装ubuntu服务器（server）整个过程的草稿
 ### 硬件
-- cpu 处理器：AMD Ryzen 9 7000X / AMD 锐龙 9700X   
+- cpu 处理器：AMD Ryzen 9700X / AMD 锐龙 9700X   
 - gpu 显卡：NVIDIA GeForce RTX 5070 Ti 16GB Inno3D InnoSnow X3 OC / NVIDIA 5070ti 16G 映众 映雪X3 OC
 - main memory 内存：GoldenBita 62GB (32GB*2) DDR5 6000 M-die chips C36 / 金百达 62GB（32GB*2） DDR5 6000 M-die颗粒 C36
 - second memory 外存：
